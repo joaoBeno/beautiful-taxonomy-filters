@@ -9,6 +9,8 @@
  * @subpackage Beautiful_Taxonomy_Filters/includes
  */
 
+// É aqui que gera as opções...
+
 /**
  * The Custom Walker class being used by our wp_dropdown_categories to render the filter dropdowns
  *
